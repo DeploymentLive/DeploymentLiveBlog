@@ -1,15 +1,10 @@
 theme: minima
-
+show_excerpts: true
+hide_site_feed_link: true
 minima:
   style: dark
-  highlighter: rouge
-
 nav_pages:
   - about.md
-
-show_excerpts: true
-hide_site_feed_link: false
-
 social_links:
   - title: Deployment Live repository at GitHub
     icon: github
