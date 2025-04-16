@@ -1,10 +1,22 @@
 theme: minima
+
+title: Deployment Live Blog
+author:
+  name: Keith Garner
+  email: keith@deploymentlive.com
+
+description: Misc ramblings on coding for Windows Deployment and System Mangement
+
+
 show_excerpts: true
 hide_site_feed_link: true
+
 minima:
   style: dark
+
 nav_pages:
   - about.md
+
 social_links:
   - title: Deployment Live repository at GitHub
     icon: github
