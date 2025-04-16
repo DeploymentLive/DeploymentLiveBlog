@@ -1,1 +1,20 @@
 theme: minima
+
+minima:
+  style: dark
+  highlighter: rouge
+
+nav_pages:
+  - about.md
+
+show_excerpts: true
+hide_site_feed_link: false
+
+social_links:
+  - title: Deployment Live repository at GitHub
+    icon: github
+    url: "https://github.com/deploymentLive"
+  - title: Keith on Linked In
+    icon: linkedin
+    url: "https://www.linkedin.com/in/keith-garner-47471924/"  
+
