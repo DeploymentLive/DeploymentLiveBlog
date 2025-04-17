@@ -7,6 +7,7 @@ author:
 
 description: Misc ramblings on coding for Windows Deployment and System Mangement
 
+BASE_PATH : /DeploymentLiveBlog
 
 show_excerpts: true
 hide_site_feed_link: true
