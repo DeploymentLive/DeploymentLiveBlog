@@ -6,6 +6,8 @@ categories: DeploymentLive ipxe eval uide
 
 # Deployment Live Cloud Ready Recovery and Installation and Evaluation Guide
 
+[Updated Sept. 18th 2025]
+
 Well it's been a bit of a roller coaster here at Deployment Live. 
 
 I announced our product to much fanfare back at MMS 2025 at the Mall of America back in May. And then went into Development hell. 
